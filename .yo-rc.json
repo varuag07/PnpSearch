@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.0",
+    "libraryName": "helloworld-pnp-js",
+    "libraryId": "df6c48b6-21a1-4973-871b-cdd2dc121f6f",
+    "environment": "spo"
+  }
+}

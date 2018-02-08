@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "helloworld-pnp-js-client-side-solution",
+    "id": "df6c48b6-21a1-4973-871b-cdd2dc121f6f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/helloworld-pnp-js.sppkg"
+  }
+}
